@@ -1,6 +1,7 @@
 # Welcome to make-your-CV app!
 
-[![pipeline status](http://gitlab.com/cdrrazan/make-your-cv/badges/master/pipeline.svg)](https://gitlab.com/cdrrazan/make-your-cv/commits/master) [![Build Status](https://travis-ci.org/cdrrazan/make-your-cv.svg?branch=master)](https://travis-ci.org/cdrrazan/make-your-cv)[ ![Codeship Status for cdrrazan/make-your-cv](https://app.codeship.com/projects/ac1b9850-19f8-0136-f7b5-06b81823cdbd/status?branch=master)](https://app.codeship.com/projects/284183) [![Maintainability](https://api.codeclimate.com/v1/badges/6bc7021d601e1d5f0f73/maintainability)](https://codeclimate.com/github/cdrrazan/make-your-cv/maintainability) [![Open Source Helpers](https://www.codetriage.com/cdrrazan/make-your-cv/badges/users.svg)](https://www.codetriage.com/cdrrazan/make-your-cv) [![Dependency Status](https://beta.gemnasium.com/badges/github.com/cdrrazan/make-your-cv.svg)](https://beta.gemnasium.com/projects/github.com/cdrrazan/make-your-cv) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![pipeline status](http://gitlab.com/cdrrazan/make-your-cv/badges/master/pipeline.svg)](https://gitlab.com/cdrrazan/make-your-cv/commits/master) [![Build Status](https://travis-ci.org/cdrrazan/make-your-cv.svg?branch=master)](https://travis-ci.org/cdrrazan/make-your-cv)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcdrrazan%2Fmake-your-cv.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcdrrazan%2Fmake-your-cv?ref=badge_shield)
+[ ![Codeship Status for cdrrazan/make-your-cv](https://app.codeship.com/projects/ac1b9850-19f8-0136-f7b5-06b81823cdbd/status?branch=master)](https://app.codeship.com/projects/284183) [![Maintainability](https://api.codeclimate.com/v1/badges/6bc7021d601e1d5f0f73/maintainability)](https://codeclimate.com/github/cdrrazan/make-your-cv/maintainability) [![Open Source Helpers](https://www.codetriage.com/cdrrazan/make-your-cv/badges/users.svg)](https://www.codetriage.com/cdrrazan/make-your-cv) [![Dependency Status](https://beta.gemnasium.com/badges/github.com/cdrrazan/make-your-cv.svg)](https://beta.gemnasium.com/projects/github.com/cdrrazan/make-your-cv) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 ### make-your-cv : Get info from user and store/generate PDF!
 
@@ -54,3 +55,7 @@ Jquery-ui-rails has been used with version '5.0.5', which has other dependency.
 ``` Send automatic mail to the user using Sidekiq and Actionmailer```
 
 # Thank you!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcdrrazan%2Fmake-your-cv.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcdrrazan%2Fmake-your-cv?ref=badge_large)
